@@ -28,7 +28,7 @@ Current client work spans PDURS clinical trial platforms, digital medicine and p
 
 | Company | What I built |
 |---|---|
-| Royal Philips | Remote monitoring, medical devices, diabetes and health solutions |
+| Royal Philips | Remote monitoring, medical devices, diabetes, and health solutions |
 | Danaher Digital | AI diagnostics and AI life sciences |
 | BrightInsight | FDA-regulated SaMD platform |
 | WellDoc | FDA-cleared digital therapeutic for diabetes |
