@@ -4,7 +4,7 @@ Product leader with 20 years building FDA-cleared and EMA-regulated products: di
 
 ## What I'm working on
 
-I consult with pharma and health system clients on regulated AI, clinical trial technology, and digital health product strategy. I'm also co-founder and coach at **[Land a PM Job](https://landpmjob.com)**, a cohort-based program for product managers breaking into or leveling up in the field.
+I consult with Digital Health, Pharma, MEDTECH, and health system clients on regulated AI, clinical trial technology, and digital health product strategy. I'm also co-founder and coach at **[Land a PM Job](https://landpmjob.com)**, a cohort-based program for product managers breaking into or leveling up in the field.
 
 Current client work spans PDURS clinical trial platforms, digital medicine and patient adherence, AI drug discovery, and GLP-1 patient support program design.
 
