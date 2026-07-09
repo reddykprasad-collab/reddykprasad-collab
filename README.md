@@ -1,6 +1,6 @@
 # Hi, I'm Prasad 👋
 
-Product leader with 20 years of FDA-cleared and EMA-regulated product work: digital therapeutics, AI diagnostics, and PDURS clinical trial platforms. Scaled product portfolios to $400M+ ARR. Fractional CPO and Product consultant to AI start-ups, Pfizer, Otsuka, Sanofi, and Privia Health.
+Product and AI leader with 20 years of FDA-cleared and EMA-regulated product work: digital therapeutics, AI diagnostics, and PDURS clinical trial platforms. Scaled product portfolios to $400M+ ARR. Fractional CPO and Product consultant to AI start-ups, Pfizer, Otsuka, Sanofi, and Privia Health.
 
 What I'm working on
 Client work spans PDURS clinical trial platforms, digital medicine and patient adherence, AI drug discovery, and GLP-1 patient support program design. Currently building AI agent systems to improve hospital operations and patient clinical outcomes. I also run Land a PM Job, a cohort-based coaching program for product managers.
